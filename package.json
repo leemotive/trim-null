@@ -1,6 +1,6 @@
 {
   "name": "trim-null",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "去除对象中值为null的项",
   "main": "lib/index.js",
   "module": "es/index.js",
